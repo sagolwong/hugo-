@@ -1,10 +1,11 @@
 ---
-title: "Blog Photos on Phone"
+title: "13ReasonWhy"
 date: 2018-07-08T12:22:40+06:00
-image: images/blog/post-2.jpg
+image: images/blog/p1.jpg
 author: Cersei Lannister
 ---
 
-### Viral dreamcatcher keytar typewriter, aesthetic offal umami.
+### สาวน้อยแฮนนาห์ เบเคอร์ที่พบเจอกับมรสุมชีวิตและเลือกที่จะปลิดชีพตนเอง
 
-Wellness spaces that reach neglected communities of color are essential, says spiritual advisor, mojo health advocate, and writer Anna Smith. As the 26-year-old Brooklyn native will tell you in her signature metaphysical-no-chaser way, when your mojo is in a bad place every aspect of your life is affected. She’s part of a growing effort to foster more inclusive healing spaces that take into account how racism, poverty, ableism, misogyny, and gender discrimination inform our self-care needs. Through harnessing the brujería that’s been passed down her Puerto Rican lineage over generations, offering private spiritual advisory sessions, and sharing
+โดยก่อนตายได้ทำเทปคาสเซตส่งให้กับบุคคลที่เป็นคนที่ทำให้เธอฆ่าตัวตายได้ฟัง
+ซีรีย์วัยรุ่นสไตล์ดาร์กๆที่ดูแล้วทำให้เราคิดว่า ชีวิตจริงมันมีแบบนี้จริงๆใช่มั้ยวะะ ที่สมัยเราเด็กๆแกล้งกัน ล้อกัน ดูเบสิคไปเลยจ้าเมื่อมาเจอกับซีรีย์เรื่องนี้ นำเสนอแบบสุดใจจริงๆ ไม่ควรพลาดถ้าได้ดู PSUstreaming

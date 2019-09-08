@@ -1,14 +1,9 @@
 ---
-title: Ten Things About Business
+title: Girlboss
 date: 2018-07-07T16:57:54+06:00
-image: images/blog/post-1.jpg
+image: images/blog/p9.jpg
 author: John Snow
 ---
 
-### Introduction
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed euismod nisi porta lorem mollis aliquam ut porttitor leo. Turpis massa tincidunt dui ut ornare lectus sit amet est. Nisl rhoncus mattis rhoncus urna neque viverra justo nec. At volutpat diam ut venenatis. Mi quis hendrerit dolor magna eget. Dui ut ornare lectus sit amet est placerat. Urna cursus eget nunc scelerisque viverra. Amet cursus sit amet dictum. Vel pretium lectus quam id leo in vitae turpis massa.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed euismod nisi porta lorem mollis aliquam ut porttitor leo. Turpis massa tincidunt dui ut ornare lectus sit amet est. Nisl rhoncus mattis rhoncus urna neque viverra justo nec. At volutpat diam ut venenatis. Mi quis hendrerit dolor magna eget. Dui ut ornare lectus sit amet est placerat. Urna cursus eget nunc scelerisque viverra. Amet cursus sit amet dictum. Vel pretium lectus quam id leo in vitae turpis massa.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed euismod nisi porta lorem mollis aliquam ut porttitor leo. Turpis massa tincidunt dui ut ornare lectus sit amet est. Nisl rhoncus mattis rhoncus urna neque viverra justo nec. At volutpat diam ut venenatis. Mi quis hendrerit dolor magna eget. Dui ut ornare lectus sit amet est placerat. Urna cursus eget nunc scelerisque viverra. Amet cursus sit amet dictum. Vel pretium lectus quam id leo in vitae turpis massa.
+เรื่องย่อ : สาวถังแตกที่ต้องการจะเปิดร้านขายเสื้อผ้าวินเทจออนไลน์และกลายเป็นเจ้านายแบบงงๆเลยต้องเรียนรู้ที่จะใช้ชีวิตให้เหมาะสมและต่อสู้กับปัญหาที่เข้ามาด้วยตนเอง
+รีวิว : เราดูเรื่องนี้เพราะนางเอกล้วนๆค่ะ เราชอบบริตต์เป็นทุนเดิมแต่ที่ไม่แพ้นางเอกก็คือเนื้อเรื่อง เนื้อเรื่องดีมากๆในแง่การสร้างแรงบันดาลใจให้กับชีวิตของคนที่ต้องการประสบความสำเร็จในชีวิต ถ้าใครกำลังท้อแท้ สิ้นหวังหรือกำลังหาแรงบันดาลใจ เราแนะนำเรื่องนี้ค่ะ รับรองว่าได้ทั้งความสุขและแรงบันดาลใจแน่นอน

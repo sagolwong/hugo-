@@ -1,45 +1,37 @@
 enable  : true
-topTitle: TEAM MEMBER
-title   : Our Team.
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+topTitle: สมาชิกในกลุ่ม
+title   : Our Team
+subtitle: พวกเราทำด้วยความตั้งใจ เพื่ออรรถรสในการรับชมของท่านและครอบครัว
 
 member  :
-  - image         : images/team/member-1.jpg
-    name          : Shawshank Redemption
-    designation   : Head Of Marketing
+  - image         : images/team/3.jpg
+    name          : นายบงการ จงมี 
+    designation   : 5910110177
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
+      การใส่ความพยายามจนถึงที่สุดคือบันไดสู่ความสำเร็จ
+    facebookURL   : https://www.facebook.com/pluemzaba123
     twitterURL    : https://twitter.com/
     gplusURL      : https://plus.google.com/
     dribbbleURL   : https://dribbble.com/
 
-  - image         : images/team/member-2.jpg
-    name          : Leo Departure
-    designation   : Web Developer
+  - image         : images/team/1.jpg
+    name          : นายอิคลาศ หมันหนุน
+    designation   : 5910110405
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
+      ความสุขของคุณ คือความสุขของเรา และเราจะทำให้ดีที่สุดเพื่อความสุขของคุณ
+    facebookURL   : https://www.facebook.com/Class.Ikhalas
     twitterURL    : https://twitter.com/
     gplusURL      : https://plus.google.com/
     dribbbleURL   : https://dribbble.com/
 
-  - image         : images/team/member-3.jpg
-    name          : Remoni Rio
-    designation   : Senior Developer
+  - image         : images/team/2.jpg
+    name          : นายสกลวงษ์ นาคอรุณรัตน์ 
+    designation   : 5910110678
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
+      แค่เราสนุกไปกับมัน เรื่องยากก็จะกลายเป็นเรื่องง่ายเอง
+    facebookURL   : https://www.facebook.com/profile.php?id=100001965407468
     twitterURL    : https://twitter.com/
     gplusURL      : https://plus.google.com/
     dribbbleURL   : https://dribbble.com/
 
-  - image         : images/team/member-4.jpg
-    name          : Lawandeski Roma
-    designation   : Designer
-    description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+  

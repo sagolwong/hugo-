@@ -1,10 +1,9 @@
 ---
-title: "The Nourish Box August"
+title: "A series of unfortunate events"
 date: 2018-07-08T12:20:58+06:00
-image: images/blog/post-1.jpg
+image: images/blog/p3.jpg
 author: Sansa Stark
 ---
 
-### Viral dreamcatcher keytar typewriter, aesthetic offal umami.
-
-Wellness spaces that reach neglected communities of color are essential, says spiritual advisor, mojo health advocate, and writer Anna Smith. As the 26-year-old Brooklyn native will tell you in her signature metaphysical-no-chaser way, when your mojo is in a bad place every aspect of your life is affected. She’s part of a growing effort to foster more inclusive healing spaces that take into account how racism, poverty, ableism, misogyny, and gender discrimination inform our self-care needs. Through harnessing the brujería that’s been passed down her Puerto Rican lineage over generations, offering private spiritual advisory sessions, and sharing 
+สามพี่น้องผู้โชคร้ายผู้สูญเสียพ่อแม่ไปจากเหตุการณ์ไฟไหม้ใหญ่ทิ้งไว้เพียงแต่มรดกก้อนโตที่ต้องอายุถึงเกณฑ์ถึงจะได้รับกับชายหนุ่มญาติห่างๆที่ถังแตกและอยากได้สมบัตินั้นมาเป็นของตน จึงทำทุกวิถีทางเพื่อจัดการทั้งสามพี่น้อง
+รีวิว : เอาจริง เราเคยดูแบบที่เป็นหนังมาก่อนแต่เราว่ามันยังไม่ค่อยสนุก พอมาดูเป็นซีรีย์ มันทำดีขึ้นเยอะคงเป็นเพราะมีระยะเวลาให้เล่าเรื่องเพิ่มขึ้นไม่อัดแน่นหรือตัดตอนมากเกินไป เนื้อเรื่องดูแล้วหงุดหงิดตามสไตล์ชื่อเรื่องเพราะมันไม่มีhappy endingเลย แต่มันตลกมากก เหมือนตลกร้ายในชีวิตเรานี่แหละ

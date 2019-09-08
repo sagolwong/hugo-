@@ -1,16 +1,16 @@
 enable  : true
 item  :
   - icon  : tf-ion-ios-copy-outline
-    title : WordPress Theme
+    title : ค่าบริการ
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      ไม่มีการเรียกเก็บค่าบริการ จนกระทั่งหลังจากเดือนที่ใช้ฟรี
 
   - icon  : tf-ion-ios-alarm-outline
-    title : Responsive Design
+    title : การแจ้งเตือน
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      เราจะแจ้งเตือนล่วงหน้า 3 วัน ก่อนการทดลองใช้จะสิ้นสุด
 
   - icon  : tf-ion-ios-book-outline
-    title : Media & Advertisement
+    title : ยกเลิกได้ทุกเมื่อ
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      ไ⁠ม่⁠มีข้⁠อ⁠ผู⁠ก⁠มั⁠ด ยกเลิกได้ทุกเมื่อ แล้วแต่คุณต้องการ

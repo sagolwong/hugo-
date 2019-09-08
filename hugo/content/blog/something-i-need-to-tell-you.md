@@ -1,15 +1,10 @@
 ---
-title: Something I Need to Tell You
+title: Santa Clarita Diet
 date: 2018-07-07T17:04:02+06:00
-image: images/blog/post-2.jpg
+image: images/blog/p8.jpg
 author: Jhonathan Ive
 ---
 
-### Introduction
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed euismod nisi porta lorem mollis aliquam ut porttitor leo. Turpis massa tincidunt dui ut ornare lectus sit amet est. Nisl rhoncus mattis rhoncus urna neque viverra justo nec. At volutpat diam ut venenatis. Mi quis hendrerit dolor magna eget. Dui ut ornare lectus sit amet est placerat. Urna cursus eget nunc scelerisque viverra. Amet cursus sit amet dictum. Vel pretium lectus quam id leo in vitae turpis massa.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed euismod nisi porta lorem mollis aliquam ut porttitor leo. Turpis massa tincidunt dui ut ornare lectus sit amet est. Nisl rhoncus mattis rhoncus urna neque viverra justo nec. At volutpat diam ut venenatis. Mi quis hendrerit dolor magna eget. Dui ut ornare lectus sit amet est placerat. Urna cursus eget nunc scelerisque viverra. Amet cursus sit amet dictum. Vel pretium lectus quam id leo in vitae turpis massa.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed euismod nisi porta lorem mollis aliquam ut porttitor leo. Turpis massa tincidunt dui ut ornare lectus sit amet est. Nisl rhoncus mattis rhoncus urna neque viverra justo nec. At volutpat diam ut venenatis. Mi quis hendrerit dolor magna eget. Dui ut ornare lectus sit amet est placerat. Urna cursus eget nunc scelerisque viverra. Amet cursus sit amet dictum. Vel pretium lectus quam id leo in vitae turpis massa.
+เรื่องย่อ : สองสามีภรรยาเป็นนายหน้าค้าขายอสังหาริมทรัพย์ วันหนึ่งภรรยาเกิดกลายเป็นซอมบี้อยากกินเนื้อคนแบบไม่ทราบสาเหตุ ทั้งสองจึงต้องพยายามประคับประคองครอบครัวให้ดูเป็นครอบครัวปกติซึ่งมันไม่มีควาปกติเลยแม้แต่น้อย
+รีวิว : เราทำใจนานมากในการจะดูซีรีย์เรื่องนี้ คือเราเป็นคนไม่ถูกกับอะไรเลือดสาดๆเท่าไหร่ แต่พอได้ดูนะ เสียดายมากก เสียดายที่ไม่รีบดูให้ไวกว่านี้และดารานำก็พึ่งมาเมืองไทยโปรโมตซีซั่น2ไปไม่กี่วันก่อนเราจะดู ใครที่คิดว่ามันจะน่ากลัวมากให้ลบความคิดนั้นออกไปจากหัวค่ะ มันมีฉากน่ากลัวจริงแต่ซีรีย์เรื่องนี้กลับทำให้มันตลกได้
 

@@ -1,42 +1,44 @@
 enable  : true
-topTitle: RECENT WORK
-title   : WORK SHOWCASE.
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+topTitle: กำลังเป็นที่นิยม
+title   : SERIES SHOWCASE
+subtitle: แนะนำ!! ภาพยนตร์ ซีรีย์ ใน PSUstreaming ที่ไม่ควรพลาด
 
 filtermenu :
-  - name      : Photography
-    category  : photography
+  - name      : Drama
+    category  : Drama
 
-  - name      : Ios App
-    category  : ios
+  - name      : Sci-Fi
+    category  : Sci-Fi
 
-  - name      : Development
-    category  : development
+  - name      : Comedy
+    category  : Comedy
 
-  - name      : Design
-    category  : design
+  - name      : Action
+    category  : Action
+
+  
 
 item   :
-  - title : AirBnB Postcard
-    image : images/portfolio/portfolio-1.jpg
-    category  : photography
+  - title : Stranger things
+    image : images/portfolio/s-t.jpg
+    category  : Sci-Fi
 
-  - title : D Design
-    image : images/portfolio/portfolio-2.jpg
-    category  : ios, design
+  - title : The Defenders
+    image : images/portfolio/a.jpg
+    category  : Sci-Fi, Action
 
-  - title : Xbox 360
-    image : images/portfolio/portfolio-3.jpg
-    category  : photography, development
+  - title : The rain
+    image : images/portfolio/d-t.jpg
+    category  : Drama
 
-  - title : Ballon Card
-    image : images/portfolio/portfolio-4.jpg
-    category  : ios
+  - title : Santa Clarita Diet
+    image : images/portfolio/c.jpg
+    category  : Comedy
 
-  - title : Ready Toons
-    image : images/portfolio/portfolio-5.jpg
-    category  : design
+  - title : The Alienist
+    image : images/portfolio/d.jpg
+    category  : Drama
 
-  - title : Illustration
-    image : images/portfolio/portfolio-6.jpg
-    category  : development
+  - title : The boss baby | back to business
+    image : images/portfolio/c2.jpg
+    category  : Comedy

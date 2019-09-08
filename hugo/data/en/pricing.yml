@@ -1,44 +1,44 @@
 enable  : true
-topTitle: EASY PRICING
-title   : Pricing.
-subtitle : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+topTitle: กำหนดราคาง่าย
+title   : Pricing
+subtitle : เลือกแพ็คเกจที่ตรงกับความต้องการ ดาวน์เกรดหรืออัปเกรดได้ทุกเมื่อ
 
 item  :
   - name        : BASIC
-    price       : $99
-    description : Perfect for single freelancers who work by themselves
+    price       : 280 บาท
+    description : จำนวนที่รับชมได้พร้อมกัน 1 คน
     featurelist :
-      - item: 1GB Disk Space
-      - item: 10 Email Account
-      - item: Script Installer
-      - item: 1 GB Storage
-      - item: 10 GB Bandwidth
-      - item: 24/7 Tech Support
-    btnText     : Sign Up
-    btnURL      : https://themefisher.com/
+      - item: รับชมได้ในรูปแบบ SD
+      - item: จำนวนหน้าจอที่รับชมได้พร้อมกัน  1 คน
+      - item: รับชมในแล็ปท็อป ทีวี โทรศัพท์มือถือและแท็บเล็ต
+      - item: ภาพยนตร์และรายการทีวีแบบไม่จำกัด
+      - item: ยกเลิกได้ทุกเมื่อ
+      - item: รับชมเดือนแรกฟรี
+    btnText     : ดำเนินการต่อ
+    btnURL      : https://www.netflix.com/signup/planform
 
-  - name        : ADVANCE
-    price       : $199
-    description : Suitable for small businesses with up to 5 employees
+  - name        : STANDARD
+    price       : 350 บาท
+    description : จำนวนที่รับชมได้พร้อมกัน 2 คน
     featurelist :
-      - item: 1GB Disk Space
-      - item: 10 Email Account
-      - item: Script Installer
-      - item: 1 GB Storage
-      - item: 10 GB Bandwidth
-      - item: 24/7 Tech Support
-    btnText     : Sign Up
-    btnURL      : https://themefisher.com/
+      - item: รับชมได้ในรูปแบบ HD
+      - item: จำนวนหน้าจอที่รับชมได้พร้อมกัน  2 คน
+      - item: รับชมในแล็ปท็อป ทีวี โทรศัพท์มือถือและแท็บเล็ต
+      - item: ภาพยนตร์และรายการทีวีแบบไม่จำกัด
+      - item: ยกเลิกได้ทุกเมื่อ
+      - item: รับชมเดือนแรกฟรี
+    btnText     : ดำเนินการต่อ
+    btnURL      : https://www.netflix.com/signup/planform
 
-  - name        : PROFESSIONAL
-    price       : $299
-    description : Great for large businesses with more than 5 employees
+  - name        : PREMIUM
+    price       : 420 บาท
+    description : จำนวนที่รับชมได้พร้อมกัน 4 คน
     featurelist :
-      - item: 1GB Disk Space
-      - item: 10 Email Account
-      - item: Script Installer
-      - item: 1 GB Storage
-      - item: 10 GB Bandwidth
-      - item: 24/7 Tech Support
-    btnText     : Sign Up
-    btnURL      : https://themefisher.com/
+      - item: รับชมได้ในรูปแบบ Ultra HD
+      - item: จำนวนหน้าจอที่รับชมได้พร้อมกัน  4 คน
+      - item: รับชมในแล็ปท็อป ทีวี โทรศัพท์มือถือและแท็บเล็ต
+      - item: ภาพยนตร์และรายการทีวีแบบไม่จำกัด
+      - item: ยกเลิกได้ทุกเมื่อ
+      - item: รับชมเดือนแรกฟรี
+    btnText     : ดำเนินการต่อ
+    btnURL      : https://www.netflix.com/signup/planform

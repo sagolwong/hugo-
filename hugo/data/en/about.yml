@@ -1,13 +1,13 @@
 enable  : true
 item    :
   - positionRight : false
-    image : images/about/about-1.jpg
-    title : Creativity is in our blood
+    image : images/about/about 1.jpg
+    title : Stranger Things 3
     description : >
-      Curabitur felis nibh, imperdiet eu erat non, luctus cursus lectus. Donec maximus diam leo, sed fringilla nisl auctor eget. Donec dictum neque est, ac faucibus ex blandit a Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quo minima ab aperiam molestiae natus repellendus neque culpa iure, nemo veritatis explicabo facilis, officia, saepe! Et corrupti odit, non deserunt.
+      แปลจากภาษาอังกฤษ-ฤดูกาลที่สามของนิยายวิทยาศาสตร์อเมริกันสยองขวัญทางเว็บซีรีส์เรื่อง Stranger Things เรื่อง Stranger Things 3 ได้รับการเผยแพร่ทั่วโลกในบริการสตรีมมิงบนเว็บของ Netflix เมื่อวันที่ 4 กรกฎาคม 2019 ซีรีส์นี้สร้างขึ้นโดย Duffer Brothers ซึ่งเป็นผู้ผลิตบริหารพร้อมด้วย Shawn Levy, Dan Cohen และ Iain Paterson
 
   - positionRight : true
-    image : images/about/about-2.jpg
-    title : We think out of the Box
+    image : images/about/about 2.jpg
+    title : F.r.i.e.n.d.s
     description : >
-      Curabitur felis nibh, imperdiet eu erat non, luctus cursus lectus. Donec maximus diam leo, sed fringilla nisl auctor eget. Donec dictum neque est, ac faucibus ex blandit a Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quo minima ab aperiam molestiae natus repellendus neque culpa iure, nemo veritatis explicabo facilis, officia, saepe! Et corrupti odit, non deserunt.
+      Friends เป็นละครซิตคอมสัญชาติอเมริกัน สร้างโดยเดวิด เครน และมาร์ทา คอฟฟ์แมน ออกอากาศทางสถานีโทรทัศน์เอ็นบีซี ตั้งแต่วันที่ 22 กันยายน ค.ศ. 1994 ถึงวันที่ 6 พฤษภาคม ค.ศ. 2004 ยาวนาน 10 ฤดูกาล มีนักแสดงหลักได้แก่ เจนนิเฟอร์ อนิสตัน คอร์ตนีย์ คอกซ์ ลิซา คูโดรว์ แมตต์ เลอบลังก์ แมตธิว เพร์รี และเดวิด ชวิมเมอร์ ละครเล่าเกี่ยวกับกลุ่มเพื่อนอายุ 20-30 ปี จำนวน 6 คน อาศัยอยู่ในย่านแมนฮัตตัน ซีรีส์ผลิตโดยไบรต์/คอฟฟ์แมน/เครนโปรดักชันส์ ร่วมกับวอร์เนอร์บราเธอส์เทเลวิชัน โปรดิวเซอร์หลักชุดแรกได้แก่ เควิน เอส. ไบรต์ มาร์ทา คอฟฟ์แมน และเดวิด เครน
